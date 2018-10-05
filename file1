@@ -1,6 +1,14 @@
+<<<<<<< HEAD
  HEAD
  demo change for conflict merge training
+
+conflict resolved
 changing first commit
 changing
+=======
+
+
+merging training
+>>>>>>> training
 first commit
 >>>>>>> training
